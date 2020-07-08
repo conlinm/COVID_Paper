@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/conlinm/COVID_Paper/tree/gh-pages) branch hosts the contents of this directory at <https://conlinm.github.io/COVID_Paper/>.
-The permalink for this webpage version is <https://conlinm.github.io/COVID_Paper/v/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b/>.
+The permalink for this webpage version is <https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://conlinm.github.io/COVID_Paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`bc823b926744ffd9a0e6c8681d8baf9b6b97a98b`](https://github.com/conlinm/COVID_Paper/commit/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b).
+[`9f8453b293df19ffc1713e8345c906983c6b099c`](https://github.com/conlinm/COVID_Paper/commit/9f8453b293df19ffc1713e8345c906983c6b099c).
