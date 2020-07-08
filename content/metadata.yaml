@@ -6,14 +6,15 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: conlinm
+    name: Michael J. Conlin
+    initials: MC
+    orcid: 0000-0002-3128-3731
+    twitter: michaelconlin
+    email: michael.conlin@va.gov
     affiliations:
-      - Department of Something, University of Whatever
+      - VA Portland Healthcare System
+      - Department of Urology, Oregon Health and Science University, Portland, OR, USA
     funders:
       - Grant XXXXXXXX
   - github: janeroe
