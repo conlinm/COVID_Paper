@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Michael J. Conlin
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -39,13 +39,15 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Michael J. Conlin" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="VA Portland Healthcare System" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_institution" content="Department of Urology, Oregon Health and Science University, Portland, OR, USA" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author_orcid" content="0000-0002-3128-3731" />
+
+  <meta name="twitter:creator" content="@michaelconlin" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +69,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://conlinm.github.io/COVID_Paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://conlinm.github.io/COVID_Paper/v/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b/" />
+  <link rel="alternate" type="text/html" href="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b/" />
+  <meta name="manubot_html_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +105,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://conlinm.github.io/COVID_Paper/v/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b/))
+([permalink](https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/))
 was automatically generated
-from [conlinm/COVID_Paper@bc823b9](https://github.com/conlinm/COVID_Paper/tree/bc823b926744ffd9a0e6c8681d8baf9b6b97a98b)
+from [conlinm/COVID_Paper@9f8453b](https://github.com/conlinm/COVID_Paper/tree/9f8453b293df19ffc1713e8345c906983c6b099c)
 on July 8, 2020.
 </em></small>
 
@@ -113,15 +115,15 @@ on July 8, 2020.
 
 
 
-+ **John Doe**<br>
++ **Michael J. Conlin**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-3128-3731](https://orcid.org/0000-0002-3128-3731)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [conlinm](https://github.com/conlinm)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [michaelconlin](https://twitter.com/michaelconlin)<br>
   <small>
-     Department of Something, University of Whatever
+     VA Portland Healthcare System; Department of Urology, Oregon Health and Science University, Portland, OR, USA
      · Funded by Grant XXXXXXXX
   </small>
 
