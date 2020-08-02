@@ -7,12 +7,12 @@
       "manubot"
     ],
     "lang": "en-US",
-    "date-meta": "2020-07-08",
+    "date-meta": "2020-08-02",
     "author-meta": [
       "Michael J. Conlin",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-07-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Michael J. Conlin\" />\n<meta name=\"citation_author_institution\" content=\"VA Portland Healthcare System\" />\n<meta name=\"citation_author_institution\" content=\"Department of Urology, Oregon Health and Science University, Portland, OR, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3128-3731\" />\n<meta name=\"twitter:creator\" content=\"@michaelconlin\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta property=\"og:url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta property=\"twitter:url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://conlinm.github.io/COVID_Paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://conlinm.github.io/COVID_Paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-08-02\" />\n<meta name=\"citation_publication_date\" content=\"2020-08-02\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Michael J. Conlin\" />\n<meta name=\"citation_author_institution\" content=\"VA Portland Healthcare System\" />\n<meta name=\"citation_author_institution\" content=\"Department of Urology, Oregon Health and Science University, Portland, OR, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3128-3731\" />\n<meta name=\"twitter:creator\" content=\"@michaelconlin\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta property=\"og:url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta property=\"twitter:url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://conlinm.github.io/COVID_Paper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://conlinm.github.io/COVID_Paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://conlinm.github.io/COVID_Paper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,7 +22,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "July 8, 2020",
+    "date": "August 2, 2020",
     "authors": [
       {
         "github": "conlinm",
@@ -82,19 +82,19 @@
       "repo_slug": "conlinm/COVID_Paper",
       "repo_owner": "conlinm",
       "repo_name": "COVID_Paper",
-      "commit": "9f8453b293df19ffc1713e8345c906983c6b099c",
-      "triggering_commit": "9f8453b293df19ffc1713e8345c906983c6b099c",
-      "build_url": "https://github.com/conlinm/COVID_Paper/commit/9f8453b293df19ffc1713e8345c906983c6b099c/checks",
+      "commit": "e2a216fe710bb50a53f16edf8902c89f11e461ba",
+      "triggering_commit": "e2a216fe710bb50a53f16edf8902c89f11e461ba",
+      "build_url": "https://github.com/conlinm/COVID_Paper/commit/e2a216fe710bb50a53f16edf8902c89f11e461ba/checks",
       "job_url": "https://github.com/conlinm/COVID_Paper/runs/run3"
     },
     "html_url": "https://conlinm.github.io/COVID_Paper/",
     "pdf_url": "https://conlinm.github.io/COVID_Paper/manuscript.pdf",
-    "html_url_versioned": "https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/",
-    "pdf_url_versioned": "https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/manuscript.pdf",
+    "html_url_versioned": "https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/",
+    "pdf_url_versioned": "https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "ce827c7789163dca33dfa3bd2df7aa828e57485d",
     "manuscript_stats": {
-      "word_count": 246
+      "word_count": 248
     }
   }
 }

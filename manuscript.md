@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-08'
+date-meta: '2020-08-02'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-07-08" />
+  <meta name="dc.date" content="2020-08-02" />
 
-  <meta name="citation_publication_date" content="2020-07-08" />
+  <meta name="citation_publication_date" content="2020-08-02" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -69,11 +69,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://conlinm.github.io/COVID_Paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/" />
+  <link rel="alternate" type="text/html" href="https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/" />
 
-  <meta name="manubot_html_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/" />
+  <meta name="manubot_html_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -105,10 +105,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://conlinm.github.io/COVID_Paper/v/9f8453b293df19ffc1713e8345c906983c6b099c/))
+([permalink](https://conlinm.github.io/COVID_Paper/v/e2a216fe710bb50a53f16edf8902c89f11e461ba/))
 was automatically generated
-from [conlinm/COVID_Paper@9f8453b](https://github.com/conlinm/COVID_Paper/tree/9f8453b293df19ffc1713e8345c906983c6b099c)
-on July 8, 2020.
+from [conlinm/COVID_Paper@e2a216f](https://github.com/conlinm/COVID_Paper/tree/e2a216fe710bb50a53f16edf8902c89f11e461ba)
+on August 2, 2020.
 </em></small>
 
 ## Authors
@@ -141,6 +141,9 @@ on July 8, 2020.
 ## Abstract {.page_break_before}
 
 
+
+
+## Introduction
 
 
 ## References {.page_break_before}
